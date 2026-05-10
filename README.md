@@ -26,8 +26,7 @@
 💡 Believer that what you can build matters more than where you studied
 📍 Open to AI/ML opportunities
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 ## 🛠️ Tech Stack
