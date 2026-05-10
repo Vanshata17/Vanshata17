@@ -18,13 +18,17 @@
 
 ---
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎯 Aspiring AI/ML Engineer — self-taught, building toward a FAANG-tier role
 🤖 Passionate about building end-to-end ML/AI systems, not just notebooks
 🧠 Currently deep-diving into LLMs, and ML system design and exploring LLM Engineer's handbook
 💡 Believer that what you can build matters more than where you studied
 📍 Open to AI/ML opportunities
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
 ## 🛠️ Tech Stack
 
